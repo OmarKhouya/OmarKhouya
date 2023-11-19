@@ -1,5 +1,4 @@
-### Hi there 👋
-# Hi there, I'm Omar Khouya! 👋
+## Hi there, I'm Omar Khouya! 👋
 
 Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a keen interest in design and gaming. Currently studying Full Stack Developement, I'm dedicated to advancing my skills in web development while exploring the exciting realms of design and gaming.
 
