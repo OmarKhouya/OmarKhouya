@@ -1,4 +1,30 @@
 ### Hi there 👋
+# Hi there, I'm Omar Khouya! 👋
+
+Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a keen interest in design and gaming. Currently studying [Your Field of Study], I'm dedicated to advancing my skills in web development while exploring the exciting realms of design and gaming.
+
+## About Me
+
+- 🌍 I'm from Morocco.
+- 🎓 Currently studying Full Stack Developement.
+- 💻 Aspiring Full Stack Developer with a focus on design and gaming.
+
+## My Interests
+
+- 🎮 Gaming Enthusiast
+- 🎨 Design Aficionado
+- 💻 Web Development Advocate
+
+## Get in Touch
+
+- 📧 Email: omarkhouya66@gmail.com
+- 🐦 Twitter: [@redlightthereal](https://twitter.com/redlightthereal)
+- 💼 LinkedIn: [Omar Khouya](https://www.linkedin.com/in/omar-khouya-ba8930233/)
+
+
+## GitHub Stats
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmarKhouya&show_icons=true&count_private=true)
 
 <!--
 **OmarKhouya/OmarKhouya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
