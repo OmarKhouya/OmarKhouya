@@ -25,10 +25,8 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a keen 
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmarKhouya&show_icons=true&count_private=true)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omarkhouya&label=Profile%20views&color=0e75b6&style=flat" alt="omarkhouya" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarkhouya&show_icons=true&locale=en&layout=compact" alt="omarkhouya" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarkhouya&show_icons=true&locale=en" alt="omarkhouya" /></p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarkhouya&label=Profile%20views&color=0e75b6&style=flat" alt="omarkhouya" /> </p> -->
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarkhouya&show_icons=true&locale=en&layout=compact" alt="omarkhouya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarkhouya&" alt="omarkhouya" /></p>
 <!--
