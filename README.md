@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a keen 
 - 💻 Web Development Advocate
 
 ## Get in Touch
-
+- ![](https://komarev.com/ghpvc/?username=OmarKhouya&abbreviated=true)
 - 📧 Email: omarkhouya66@gmail.com
 - 🐦 Twitter: [@redlightthereal](https://twitter.com/redlightthereal)
 - 💼 LinkedIn: [Omar Khouya](https://www.linkedin.com/in/omar-khouya-ba8930233/)
